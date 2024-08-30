@@ -6,10 +6,11 @@ This command-line application allows developers to quickly generate a high-quali
 
 ## Table of Contents
 
-Description
-Installation
-Usage
-Tests
+- [Description]#description
+- [Installation]#installation
+- [Usage]#usage
+- [Tests]#tests
+- [License]#license
 
 ## Installation
 
@@ -36,6 +37,10 @@ To run tests, use the following command:
 ```bash
 npm test
 ```
+
+## License
+
+This project is licensed under the terms of the MIT license. For more information, see the LICENSE file.
 
 ## Acknowledgements
 
