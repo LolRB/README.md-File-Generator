@@ -6,11 +6,11 @@ This command-line application allows developers to quickly generate a high-quali
 
 ## Table of Contents
 
-- [Description]#description
-- [Installation]#installation
-- [Usage]#usage
-- [Tests]#tests
-- [License]#license
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Tests](#tests)
+- [License](#license)
 
 ## Installation
 
