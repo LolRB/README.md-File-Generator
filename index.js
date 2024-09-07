@@ -42,7 +42,7 @@ const questions = [
   },
   {
     type: "checkbox",
-    message: "What's your project's title?\n",
+    message: "What technologies are involved in the project?\n",
     choices: [
       "HTML",
       "CSS",
